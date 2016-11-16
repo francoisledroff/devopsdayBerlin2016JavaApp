@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 @EnableAutoConfiguration
 public class Application {
 
-    @RequestMapping("/")
+    @RequestMapping("/api")
     @ResponseBody
     String home() {
         return "Hello from Java";
