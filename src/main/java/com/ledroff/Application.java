@@ -12,7 +12,7 @@ public class Application {
     @RequestMapping("/api")
     @ResponseBody
     String home() {
-        return "Hello from Java";
+        return "Hello from Francois who did this just for you in Java";
     }
 
     public static void main(String[] args) throws Exception {
