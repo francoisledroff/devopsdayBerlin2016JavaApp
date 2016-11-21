@@ -1,4 +1,6 @@
-This is the github `repo` used for an Hands-On session at DevopsDays Berlin 2016, 
+# A Sample Springboot Fat Jar
+
+This was a github `repo` used for an Hands-On session at DevopsDays Berlin 2016, 
 
 named [`Chef versus Ansible`](http://www.slideshare.net/francoisledroff/devops-days-berlin2016)
 
